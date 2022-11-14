@@ -1,18 +1,17 @@
 ---
-title: Another NPM Package
-emoji: 💾
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Prolog-Python Database
+emoji: 📊
+metaDescription: A database created by using Prolog and Python translation in order to relay information about the game Overwatch 
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: This is a database I worked on
 tags:
-  - javascript
-  - node
+  - Learn More
 ---
 
 ### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Organize information to allow for users to parse information based on exact queries regarding what exactly is being serached for, while utlizing multiple languages in order to carry out the task.
 
 ### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Break the task up across the Prolog programming language and the Python programming language while using a docker container in order to access both langugages at the same time and query information.

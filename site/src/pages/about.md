@@ -16,4 +16,4 @@ Education has been a journey for me, as the importance of education was somethin
 
 The plan for my future is set, but I know that plans don’t always flow so smoothly. I strive to be a holistic person in order to adapt to the ever-changing future and continue developing my skills and my mind.
 
-![Fern in Hand](/assets/img/fern-in-hand.jpeg "Fern in Hand")
+![Picture from Korea](/assets/img/Int_pic.jpg  "Picture from Korea")

@@ -5,9 +5,7 @@ metaDescription: This database contains information pertaining to the rates of h
 date: 2019-01-01T00:00:00.000Z
 summary: This is a database I worked on
 tags:
-  - javascript
-  - vue
-  - aws
+  - Learn More
 ---
 
 ### Task

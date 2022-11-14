@@ -8,16 +8,12 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+Hello! My name is Michael Abraham. I am a junior at Allegheny College in Meadville, Pennsylvania majoring in Computer Science and English from New York, NYC. 
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+I was born in the Bronx in New York City, where I have lived all my life. Going to college was something that wasn’t really a choice; I had to go to college. I spent the greater part of my high school career going to a program called SEO Scholars, which set me up to go to college and prepare for the working world. The journey to where I am now has been a long, arduous one, but through it I have found the importance of education.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+Education has been a journey for me, as the importance of education was something that I internalized at quite a young age. Growing up, learning has been a great interest of mine and I am grateful for all the information I take in. From reading books at a young age and seeing the development of people around me, I learned that there is always more to be learned. The lessons I’ve learned in life have been tough, but I know that I am able to persist and work harder every day.
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
-
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
-
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
+The plan for my future is set, but I know that plans don’t always flow so smoothly. I strive to be a holistic person in order to adapt to the ever-changing future and continue developing my skills and my mind.
 
 ![Fern in Hand](/assets/img/fern-in-hand.jpeg "Fern in Hand")

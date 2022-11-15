@@ -13,8 +13,8 @@ eleventyNavigation:
   order: 5
 ---
 
-**Email:** [michaelness2989@gmail.com](michaelness2989@gmail.com) 
-**College Email:** [abraham01@allegheny.edu](abraham01@allegheny.edu)
+**Email:** michaelness2989@gmail.com
+**College Email:** abraham01@allegheny.edu
 **Discord:** [MiscTape#8332](discordapp.com/users/MiscTape#8332)
 
 ### Contact through Website: 

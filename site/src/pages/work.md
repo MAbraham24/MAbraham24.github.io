@@ -25,7 +25,7 @@ eleventyNavigation:
 
 - - -
 
-### 📚 Education:
+### Education:
 
 #### Allegheny College
 
